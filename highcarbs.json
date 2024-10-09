@@ -1,0 +1,7 @@
+[
+    {"name": "Quinoa", "protein": 4, "fat": 2, "carbs": 39, "calories": 222},
+    {"name": "Oats", "protein": 13, "fat": 6, "carbs": 67, "calories": 389},
+    {"name": "Sweet Potatoes", "protein": 2, "fat": 0.1, "carbs": 20, "calories": 86},
+    {"name": "Rice Cakes", "protein": 2, "fat": 0.2, "carbs": 14, "calories": 54},
+    {"name": "Whole Grain Bread", "protein": 9, "fat": 1.5, "carbs": 43, "calories": 246}
+]

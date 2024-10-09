@@ -1,0 +1,7 @@
+[
+    {"name": "Avocado", "protein": 2, "fat": 15, "carbs": 9, "calories": 160},
+    {"name": "Olive Oil", "protein": 0, "fat": 100, "carbs": 0, "calories": 884},
+    {"name": "Cheese", "protein": 25, "fat": 33, "carbs": 1, "calories": 402},
+    {"name": "Nut Butter", "protein": 25, "fat": 50, "carbs": 20, "calories": 588},
+    {"name": "Dark Chocolate", "protein": 7, "fat": 43, "carbs": 46, "calories": 546}
+]

@@ -1,0 +1,7 @@
+[
+    {"name": "White Rice", "protein": 2.7, "fat": 0.3, "carbs": 28.7, "calories": 130},
+    {"name": "Potatoes", "protein": 2, "fat": 0.2, "carbs": 17, "calories": 77},
+    {"name": "Pasta", "protein": 5, "fat": 1, "carbs": 31, "calories": 157},
+    {"name": "Corn", "protein": 3.3, "fat": 1.2, "carbs": 27, "calories": 96},
+    {"name": "Banana", "protein": 1.1, "fat": 0.3, "carbs": 27, "calories": 105}
+]

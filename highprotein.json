@@ -1,0 +1,7 @@
+[
+    {"name": "Chicken Breast", "protein": 31, "fat": 3.6, "carbs": 0, "calories": 165},
+    {"name": "Turkey Breast", "protein": 29, "fat": 1, "carbs": 0, "calories": 135},
+    {"name": "Salmon", "protein": 25, "fat": 14, "carbs": 0, "calories": 206},
+    {"name": "Tofu", "protein": 8, "fat": 4, "carbs": 2, "calories": 70},
+    {"name": "Eggs", "protein": 6, "fat": 5, "carbs": 0.6, "calories": 68}
+]
