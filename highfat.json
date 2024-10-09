@@ -3,5 +3,20 @@
     {"name": "Olive Oil", "protein": 0, "fat": 100, "carbs": 0, "calories": 884},
     {"name": "Cheese", "protein": 25, "fat": 33, "carbs": 1, "calories": 402},
     {"name": "Nut Butter", "protein": 25, "fat": 50, "carbs": 20, "calories": 588},
-    {"name": "Dark Chocolate", "protein": 7, "fat": 43, "carbs": 46, "calories": 546}
-]
+    {"name": "Dark Chocolate", "protein": 7, "fat": 43, "carbs": 46, "calories": 546},
+    {"name": "Almonds", "protein": 21, "fat": 49, "carbs": 22, "calories": 579},
+    {"name": "Walnuts", "protein": 15, "fat": 65, "carbs": 14, "calories": 654},
+    {"name": "Pecans", "protein": 9, "fat": 72, "carbs": 14, "calories": 691},
+    {"name": "Macadamia Nuts", "protein": 8, "fat": 76, "carbs": 14, "calories": 718},
+    {"name": "Cashews", "protein": 18, "fat": 44, "carbs": 30, "calories": 553},
+    {"name": "Coconut Oil", "protein": 0, "fat": 100, "carbs": 0, "calories": 862},
+    {"name": "Butter", "protein": 0.9, "fat": 81, "carbs": 0.1, "calories": 717},
+    {"name": "Flaxseeds", "protein": 18, "fat": 42, "carbs": 29, "calories": 534},
+    {"name": "Sunflower Seeds", "protein": 21, "fat": 51, "carbs": 20, "calories": 584},
+    {"name": "Chia Seeds", "protein": 17, "fat": 31, "carbs": 42, "calories": 486},
+    {"name": "Pumpkin Seeds", "protein": 19, "fat": 49, "carbs": 15, "calories": 559},
+    {"name": "Salmon", "protein": 20, "fat": 13, "carbs": 0, "calories": 208},
+    {"name": "Bacon", "protein": 37, "fat": 41, "carbs": 1.4, "calories": 541},
+    {"name": "Coconut Milk", "protein": 5, "fat": 57, "carbs": 13, "calories": 552},
+    {"name": "Heavy Cream", "protein": 2, "fat": 38, "carbs": 3, "calories": 340}
+    ]
